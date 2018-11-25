@@ -1,0 +1,3 @@
+﻿  main.cpp
+\\mac\home\desktop\flowersrecognition\first\main.cpp(133): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  First.vcxproj -> \\Mac\Home\Desktop\FlowersRecognition\Debug\First.exe
